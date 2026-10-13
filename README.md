@@ -47,7 +47,7 @@ accuracy. To use real data, replace the DataFrame in `train_model.py` with
 `pd.read_csv("your_file.csv")` using the same column names.
 
 ## Ideas to extend
-<img width="626" height="253" alt="Screenshot 2026-10-13 182608" src="https://github.com/user-attachments/assets/fe98014e-119d-4f54-a252-b18d8bcc40b5" />
+src="https://github.com/user-attachments/assets/fe98014e-119d-4f54-a252-b18d8bcc40b5" />
 
 
 - Add a Streamlit or Flask web interface
